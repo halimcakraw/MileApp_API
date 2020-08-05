@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check if phone field is mix numeric and varchar</name>
+   <tag></tag>
+   <comment>Phone is not numeric</comment>
+   <testCaseGuid>7594828b-2cda-4331-b938-2415ee81ad6f</testCaseGuid>
+</TestCaseEntity>

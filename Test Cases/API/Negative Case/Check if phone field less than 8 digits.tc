@@ -3,6 +3,6 @@
    <description></description>
    <name>Check if phone field less than 8 digits</name>
    <tag></tag>
-   <comment>organization name is null</comment>
+   <comment>Phone number less than 8 digits</comment>
    <testCaseGuid>a9bc3c9c-b543-47cc-bf55-bc5aeacb689f</testCaseGuid>
 </TestCaseEntity>
