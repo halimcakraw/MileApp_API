@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check if phone field is not numeric</name>
+   <tag></tag>
+   <comment>organization name is null</comment>
+   <testCaseGuid>c7d27675-3db7-4a94-a961-ec9c8d47b0b6</testCaseGuid>
+</TestCaseEntity>

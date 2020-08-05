@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check if phone field is required (is empty)</name>
+   <tag></tag>
+   <comment>Phone is empty</comment>
+   <testCaseGuid>f3878756-61de-49b4-8ab2-5d672f50fa35</testCaseGuid>
+</TestCaseEntity>

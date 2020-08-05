@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check if organization name field is required (delete from params)</name>
+   <tag></tag>
+   <comment>Success</comment>
+   <testCaseGuid>de45e867-1060-433f-9938-4e05572b1797</testCaseGuid>
+</TestCaseEntity>

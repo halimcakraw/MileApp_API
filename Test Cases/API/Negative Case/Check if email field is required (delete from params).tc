@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check if email field is required (delete from params)</name>
+   <tag></tag>
+   <comment>Delete phone field from params</comment>
+   <testCaseGuid>ba5a74b7-7db6-4dc1-a1b4-45f8e51980aa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check if full name field is required (is empty)</name>
+   <tag></tag>
+   <comment>organization name is null</comment>
+   <testCaseGuid>70dcdc46-3bfc-4af8-8582-5a3b162fe0ad</testCaseGuid>
+</TestCaseEntity>

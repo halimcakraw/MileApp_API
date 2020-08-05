@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check if email field is required (is empty)</name>
+   <tag></tag>
+   <comment>Email is empty</comment>
+   <testCaseGuid>788c1ad3-3f0c-44fd-87e1-24828f4acca6</testCaseGuid>
+</TestCaseEntity>
